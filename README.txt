@@ -1,10 +1,10 @@
 Another Arctium Sniffer
 
-Only for 5.3.x (32 bits) clients. It will create Arctium Dump files, to browse and parse them with my ArctiumSnifferBrowser or with your own tools...
+Sniffer for Retail 5.3.x & PTR 5.4.x (32 bits) clients. It will create Arctium Dump files, to browse and parse them with my ArctiumSnifferBrowser or with your own tools...
 
 Features:
 
-- Universal sniffer. You don't need updates for future 5.3.x clients (crossed fingers!)
+- Universal sniffer. You don't need updates for future 5.3.x / 5.4.x clients (crossed fingers!)
 - If no client detected, it will wait for the first instance (you can launch the sniffer first and then the client)
 - Multiple clients support: It will give you the option to choose to which unhooked client will be attached
 - No consoles: Once you hook to a client, all console windows will be closed. No need for more windows in background :)
