@@ -1,6 +1,6 @@
 Another Arctium Sniffer
 
-Sniffer for Retail 5.3.x & PTR 5.4.x (32 bits) clients. It will create Arctium Dump files, to browse and parse them with my ArctiumSnifferBrowser or with your own tools...
+Sniffer for 5.3.0.x Retail & 5.4.0.x RC (32 bits) clients. It will create Arctium Dump files, to browse and parse them with my ArctiumSnifferBrowser or with your own tools...
 
 Features:
 
@@ -15,3 +15,5 @@ A lot of thanks to:
 - Fabi for his emulator, support, suggestions and for teaching about WoW emulation & client stuff
 - Anuka/Anubysss: For his brilliant sniffer. I found on it the piece I need to complete mine.
 - Arctium IRC, forums & community for support the Arctium Project
+
+*Updated for last 5.4.0.x PTR clients (Release Candidate builds)
